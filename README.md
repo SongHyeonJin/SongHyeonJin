@@ -4,11 +4,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shwj203)](https://solved.ac/{handle})
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongHyeonJin&theme=nord&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongHyeonJin&theme=kacho_ga&show_icons=true)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwj203)](https://solved.ac/{handle})
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongHyeonJin&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongHyeonJin&layout=compact&theme=kacho_ga)
 
 
 <!--
