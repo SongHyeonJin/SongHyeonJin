@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GodJin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GodJin%20Song&desc=Back-end%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=33&animation=twinkling" />
 
 # <h1 align="center">HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-gray?style=flat&logo=riotgames&logoColor=white" /></h1>
 <div align="center">
   <div>
-    <h1 align="center">📚 Tech Stack </h1>
+    <h1 align="center">🛠️ Tech Stack ⚒️ </h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -33,4 +33,4 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90&animation=twinkling)
