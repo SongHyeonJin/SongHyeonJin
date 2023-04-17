@@ -1,7 +1,8 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GodJin%20Song&desc=Back-end%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=33&animation=twinkling" />
 
-# <h1 align="center">HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-gray?style=flat&logo=riotgames&logoColor=white" /></h1>
-<div align="center">
+# <h1>HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-9999FF?style=flat&logo=riotgames&logoColor=white" /></h1>
   <div>
     <h1 align="center">🛠️ Tech Stack ⚒️ </h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -17,10 +18,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </div>
-</div>
   
 ---
-<div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shwj203)](https://solved.ac/{handle})
@@ -31,6 +30,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwj203)](https://solved.ac/{handle})
 
-</div>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90&animation=twinkling)
+</div>
