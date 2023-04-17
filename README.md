@@ -27,9 +27,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongHyeonJin&theme=material-palenight&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongHyeonJin&layout=compact&theme=material-palenight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwj203)](https://solved.ac/{handle})
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongHyeonJin&layout=compact&theme=material-palenight)
 
 </div>
 
