@@ -4,7 +4,7 @@
 
 # <h1>HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-9999FF?style=flat&logo=riotgames&logoColor=white" /></h1>
   <div>
-    <h1 align="center">🛠️ Tech Stack ⚒️ </h1>
+    <h1 align="center">🛠️ Tech Stack </h1>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -17,12 +17,9 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
-  </div>
-  
----
+  </div>  
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shwj203)](https://solved.ac/{handle})
+<h2>💻 My Github Stats</h2
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongHyeonJin&theme=material-palenight&show_icons=true)
 
