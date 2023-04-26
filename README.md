@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=GodJin%20Song&desc=Back-end%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=33&animation=twinkling)
 
-  # HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-7D929E?style=flat&logo=riotgames&logoColor=white" />
+  # HyeonJin Song <img src="https://img.shields.io/badge/Gym junkie-556472?style=flat&logo=riotgames&logoColor=white" />
 
   ### 📚 Tech Stack 🛠️
   
