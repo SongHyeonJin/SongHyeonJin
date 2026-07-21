@@ -9,11 +9,9 @@
 <a href="mailto:shwj1602@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
 <a href="https://midi-shrine-177.notion.site/PORTFOLIO_-38825264941f80648f7ad0a6c82a63a6?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
-</div>
+<br/>
 
-### 🛠️ Tech Stack &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🧩 Problem Solving
-
-<a href="https://solved.ac/profile/shwj203"><img align="right" width="430" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shwj203" /></a>
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -36,12 +34,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<br clear="all"/>
+<br/>
 
-<div align="center">
+## 🧩 Problem Solving
 
-### 📊 Contribution
+<a href="https://solved.ac/profile/shwj203"><img width="450" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shwj203" /></a>
 
-<img width="95%" src="./profile-3d-contrib/profile-night-green.svg" />
+<br/><br/>
+
+## 📊 Contribution
+
+<img width="90%" src="./profile-3d-contrib/profile-night-green.svg" />
 
 </div>
